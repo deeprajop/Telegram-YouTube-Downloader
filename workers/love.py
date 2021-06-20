@@ -9,12 +9,12 @@ async def love(client, message):
         [InlineKeyboardButton("info:", url="https://t.me/Zer0ByteOfficial")],
     ])
     Aww = f"""Hey <b>{message.from_user.first_name}</b>
-If you liked my project and want to be a GitHub contributor then:
-- 📧You may let us know **@Zer0ByteSupport**
-- 🌟You can personal message me in Telegram **@deeprajk**   
-- ✨Give Us FeedBack On @Zer0ByteSupport Or Let Us Know Some Bugs If You Encounter\n
+If you Need More Help And If You Have Some Cool Idea For The Projects You Can Reach Us:- 
 
-If you liked my project and want and just want to make me happy then you can:
+- 📧You may let us know @Zer0ByteSupport
+- ✨Give us  suggestions or Feedback On @Zer0ByteSupport Or Let us Know Some Bugs If You Encounter\n
+
+If you liked my project and just want to make me happy then you can:
 - **Share My Bot With Your Friends**
     
 **<b>{message.from_user.first_name}</b> Thanks A Lot For Using Zer0Byte**
